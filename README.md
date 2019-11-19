@@ -1,2 +1,2 @@
-# MapleAdventurePHP
+# MapleAdventure
 Tribute to MapleStory
