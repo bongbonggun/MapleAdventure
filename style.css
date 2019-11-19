@@ -1,0 +1,109 @@
+#mouse{
+    cursor: url("img/fairfrozen.png");
+}
+
+#bglogin{
+	background-image: url("img/login_back.png");
+	background-repeat: no-repeat;
+	background-size: 1024px 768px;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+#bgmain{
+	background-image: url("img/lumiere.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: #CEE3F6;
+}
+
+#bgcapsuleland{
+	background-image: url("img/fuji.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: #CEE3F6;
+	margin: 50px 400px;
+	font-family: 微軟正黑體;
+}
+
+#loginboard{
+	background-image: url("img/login_up.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 350px;
+	height: 100px;
+	margin: 250px 500px;
+	
+}
+
+#loginid{
+	color: white;
+	background-color: transparent; border: 0;
+	position: absolute;
+	top: 281px;
+	left: 585px;
+}
+
+#loginpw{
+	color: white;
+	background-color: transparent; border: 0;
+	position: absolute;
+	top: 310px;
+	left: 585px;
+}
+
+#btnlogin{
+	background-color: transparent; border: 0;
+	position: absolute;
+	top: 280px;
+	left: 750px;
+	width: 75px;
+	height: 35px;
+}
+
+#btnback{
+	position: absolute;
+	top: 400px;
+	left: 585px;
+	width: 75px;
+	height: 35px;
+}
+
+#btnregister{
+	position: absolute;
+	top: 400px;
+	left: 680px;
+	width: 75px;
+	height: 35px;
+}
+
+#p1{
+	margin: 0px 40px;
+}
+
+#p1 table tr{
+	text-align: center;
+	font-weight: bold;
+	font-size: 35;
+	font-family: 微軟正黑體;
+}
+
+#p2{
+	margin: 20px 40px;
+	font-weight: bold;
+	font-size: 35;
+	font-family: 微軟正黑體;
+}
+
+#p3{
+	margin: 20px 40px;
+	text-align: right;
+}
+
+ul li{
+	list-style-image: url("img/fairfrozen.png");
+}
